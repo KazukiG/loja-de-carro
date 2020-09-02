@@ -1,0 +1,12 @@
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Services.BusinessService\bin\Debug\TrilhaOnline.Services.BusinessService.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Services.BusinessService\bin\Debug\TrilhaOnline.Services.BusinessService.pdb
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Services.BusinessService\obj\Debug\TrilhaOnline.Services.BusinessService.csprojAssemblyReference.cache
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Services.BusinessService\obj\Debug\TrilhaOnline.Services.BusinessService.csproj.CoreCompileInputs.cache
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Services.BusinessService\obj\Debug\TrilhaOnline.Services.BusinessService.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Services.BusinessService\obj\Debug\TrilhaOnline.Services.BusinessService.pdb
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Services.BusinessService\bin\Debug\TrilhaOnline.Domain.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Services.BusinessService\bin\Debug\TrilhaOnline.Infra.Data.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Services.BusinessService\bin\Debug\Dapper.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Services.BusinessService\bin\Debug\TrilhaOnline.Domain.pdb
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Services.BusinessService\bin\Debug\TrilhaOnline.Infra.Data.pdb
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Services.BusinessService\obj\Debug\TrilhaOnline.Services.BusinessService.csproj.CopyComplete

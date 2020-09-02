@@ -1,0 +1,5 @@
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Domain\bin\Debug\TrilhaOnline.Domain.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Domain\bin\Debug\TrilhaOnline.Domain.pdb
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Domain\obj\Debug\TrilhaOnline.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Domain\obj\Debug\TrilhaOnline.Domain.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Domain\obj\Debug\TrilhaOnline.Domain.pdb

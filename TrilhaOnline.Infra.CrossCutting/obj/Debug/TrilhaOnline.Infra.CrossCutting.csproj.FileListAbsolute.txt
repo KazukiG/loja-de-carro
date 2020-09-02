@@ -1,0 +1,5 @@
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.CrossCutting\bin\Debug\TrilhaOnline.Infra.CrossCutting.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.CrossCutting\bin\Debug\TrilhaOnline.Infra.CrossCutting.pdb
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.CrossCutting\obj\Debug\TrilhaOnline.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.CrossCutting\obj\Debug\TrilhaOnline.Infra.CrossCutting.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.CrossCutting\obj\Debug\TrilhaOnline.Infra.CrossCutting.pdb

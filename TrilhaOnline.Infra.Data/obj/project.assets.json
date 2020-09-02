@@ -1,0 +1,193 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "Dapper/1.50.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Data",
+          "System.Xml",
+          "System.Xml.Linq"
+        ],
+        "compile": {
+          "lib/net451/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net451/Dapper.dll": {}
+        }
+      },
+      "TrilhaOnline.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TrilhaOnline.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrilhaOnline.Domain.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "Dapper/1.50.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Data",
+          "System.Xml",
+          "System.Xml.Linq"
+        ],
+        "compile": {
+          "lib/net451/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net451/Dapper.dll": {}
+        }
+      },
+      "TrilhaOnline.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TrilhaOnline.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrilhaOnline.Domain.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "Dapper/1.50.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Data",
+          "System.Xml",
+          "System.Xml.Linq"
+        ],
+        "compile": {
+          "lib/net451/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net451/Dapper.dll": {}
+        }
+      },
+      "TrilhaOnline.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TrilhaOnline.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrilhaOnline.Domain.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "Dapper/1.50.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Data",
+          "System.Xml",
+          "System.Xml.Linq"
+        ],
+        "compile": {
+          "lib/net451/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net451/Dapper.dll": {}
+        }
+      },
+      "TrilhaOnline.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TrilhaOnline.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TrilhaOnline.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dapper/1.50.2": {
+      "sha512": "6VcCiiOxVhgMwgMCuQuaff8I5IyDamrzeOjuUH1iMExh8R5TJqwkVCpwdVJGQdwSCqWsQA/PerrrK7T6mONthQ==",
+      "type": "package",
+      "path": "dapper/1.50.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dapper.1.50.2.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net40/Dapper.dll",
+        "lib/net40/Dapper.xml",
+        "lib/net45/Dapper.dll",
+        "lib/net45/Dapper.xml",
+        "lib/net451/Dapper.dll",
+        "lib/net451/Dapper.xml",
+        "lib/netstandard1.3/Dapper.dll",
+        "lib/netstandard1.3/Dapper.xml"
+      ]
+    },
+    "TrilhaOnline.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TrilhaOnline.Domain/TrilhaOnline.Domain.csproj",
+      "msbuildProject": "../TrilhaOnline.Domain/TrilhaOnline.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "Dapper >= 1.50.2",
+      "TrilhaOnline.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\marcelobranco\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\marcelobranco\\source\\repos\\TrilhaOnline\\TrilhaOnline.Infra.Data\\TrilhaOnline.Infra.Data.csproj",
+      "projectName": "TrilhaOnline.Infra.Data",
+      "projectPath": "C:\\Users\\marcelobranco\\source\\repos\\TrilhaOnline\\TrilhaOnline.Infra.Data\\TrilhaOnline.Infra.Data.csproj",
+      "packagesPath": "C:\\Users\\marcelobranco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marcelobranco\\source\\repos\\TrilhaOnline\\TrilhaOnline.Infra.Data\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\marcelobranco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
+        "https://www.nuget.org/api/v2": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "C:\\Users\\marcelobranco\\source\\repos\\TrilhaOnline\\TrilhaOnline.Domain\\TrilhaOnline.Domain.csproj": {
+              "projectPath": "C:\\Users\\marcelobranco\\source\\repos\\TrilhaOnline\\TrilhaOnline.Domain\\TrilhaOnline.Domain.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[1.50.2, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

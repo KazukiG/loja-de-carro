@@ -1,0 +1,5 @@
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Resources.Utils\bin\Debug\TrilhaOnline.Resources.Utils.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Resources.Utils\bin\Debug\TrilhaOnline.Resources.Utils.pdb
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Resources.Utils\obj\Debug\TrilhaOnline.Resources.Utils.csproj.CoreCompileInputs.cache
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Resources.Utils\obj\Debug\TrilhaOnline.Resources.Utils.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Resources.Utils\obj\Debug\TrilhaOnline.Resources.Utils.pdb

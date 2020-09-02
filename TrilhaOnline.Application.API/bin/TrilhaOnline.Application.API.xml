@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TrilhaOnline.Application.API</name>
+    </assembly>
+    <members>
+        <member name="T:TrilhaOnline.Application.API.Controllers.HomeController">
+            <summary>
+            View de redirecionamento para a biblioteca de APIs do Swagger
+            </summary>
+        </member>
+        <member name="T:TrilhaOnline.Application.API.Controllers.TrilhaRentController">
+            <summary>
+            Classe responsável pelo controle das APIs de Carros da Trilhar Car
+            </summary>
+        </member>
+        <member name="M:TrilhaOnline.Application.API.Controllers.TrilhaRentController.#ctor">
+            <summary>
+            Método construtor
+            </summary>
+        </member>
+        <member name="M:TrilhaOnline.Application.API.Controllers.TrilhaRentController.GetAllCars">
+            <summary>
+            API responsável pelo retorno de carros da Trilha Car
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TrilhaOnline.Application.API.Controllers.TrilhaRentController.GetCarById(System.Int32)">
+            <summary>
+            API responsável pelo retorno de carro da Trilha Car por Id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TrilhaOnline.Application.API.Controllers.TrilhaRentController.InsertCar(TrilhaOnline.Domain.Entity.Car.CarRequestDTO)">
+            <summary>
+            API responsável pela inclusão de carros da Trilha Car
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TrilhaOnline.Application.API.Controllers.TrilhaRentController.UpdateCar(TrilhaOnline.Domain.Entity.Car.CarRequestDTO)">
+            <summary>
+            API responsável pela alteração de carros da Trilha Car
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TrilhaOnline.Application.API.Controllers.TrilhaRentController.DeleteCar(System.Int32)">
+            <summary>
+            API responsável pela exclusão de carros da Trilha Car
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

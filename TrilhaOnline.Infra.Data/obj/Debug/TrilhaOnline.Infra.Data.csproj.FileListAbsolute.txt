@@ -1,0 +1,10 @@
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.Data\bin\Debug\TrilhaOnline.Infra.Data.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.Data\bin\Debug\TrilhaOnline.Infra.Data.pdb
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.Data\obj\Debug\TrilhaOnline.Infra.Data.csprojAssemblyReference.cache
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.Data\obj\Debug\TrilhaOnline.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.Data\obj\Debug\TrilhaOnline.Infra.Data.csproj.CopyComplete
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.Data\obj\Debug\TrilhaOnline.Infra.Data.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.Data\obj\Debug\TrilhaOnline.Infra.Data.pdb
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.Data\bin\Debug\TrilhaOnline.Domain.dll
+C:\Users\marcelobranco\source\repos\TrilhaOnline\TrilhaOnline.Infra.Data\bin\Debug\TrilhaOnline.Domain.pdb
